@@ -14,7 +14,7 @@ Sebuah aplikasi desktop dengan antarmuka CLI yang dibuat menggunakan bahasa pemr
 Fungsional
 
 ### Cara penggunaan
-[![Video penjelasan](https://i9.ytimg.com/vi/hlt4ENXG-Zo/mq1.jpg?sqp=CIi085QG&rs=AOn4CLDyFVbv-ieqMGX-_6jSIU5b1Xbd4g)](https://youtu.be/EcOa92Pl-c8)
+[![Video penjelasan](https://drive.google.com/uc?export=download&id=1N7gRDkGrUi9XtIqhC21VfbWFSXGyqrV8)](https://youtu.be/hlt4ENXG-Zo)
 
 ### Lampiran
 ![Lampiran 1](https://drive.google.com/uc?export=download&id=12_pCQvm8GUo8ThNRAishPLusV5L9sME1)
